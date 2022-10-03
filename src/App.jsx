@@ -1,6 +1,6 @@
 import React from "react";
 import popularDestinations from "../data/popularDestinations";
-import DestinationCard from "../components/DestinationsCard";
+import DestinationCard from "../src/components/DestinationsCard";
 
 export default function App () {
   return (
