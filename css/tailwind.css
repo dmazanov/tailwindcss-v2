@@ -7,7 +7,7 @@
     @apply inline-block rounded-lg focus:outline-none focus:ring focus:ring-offset-2 uppercase tracking-wider font-semibold text-sm sm:text-base;
   }
   .btn-primary {
-    @apply px-5 py-3 bg-indigo-500 hover:bg-indigo-400 sm:hover:bg-green-500 focus:ring-indigo-500 focus:ring-opacity-50 active:bg-indigo-600 text-white;
+    @apply px-5 py-3 bg-brand hover:bg-brand-light focus:ring-brand focus:ring-opacity-50 active:bg-brand-dark text-white;
   }
 
   .btn-secondary {
